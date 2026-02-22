@@ -1,11 +1,10 @@
 # Anthony Marti
 NJ, USA | Engineer | Solo Developer at N10E Labs
 
-![Codex](https://img.shields.io/badge/-Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
+[![Codex](https://img.shields.io/badge/Codex-Tech%20Badge-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/codex/)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-111111?style=flat-square&logo=apple&logoColor=white)
-![OSS](https://img.shields.io/badge/-OSS-000000?style=flat-square&logo=github&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-000000?style=flat-square&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
