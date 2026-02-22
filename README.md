@@ -19,5 +19,3 @@ NJ, USA | Engineer | Solo Developer at N10E Labs
 - [X](https://twitter.com/N10ELabs)
 - [LinkedIn](https://linkedin.com/company/n10elabs)
 - [Email](mailto:contact@n10elabs.com)
-
-the
