@@ -2,10 +2,11 @@
 NJ, USA | Engineer | Solo Developer at N10E Labs
 
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Windsurf](https://img.shields.io/badge/-Windsurf-000000?style=flat-square&logo=github&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
+![Open Source](https://img.shields.io/badge/-Open%20Source-000000?style=flat-square&logo=github&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-111111?style=flat-square&logo=apple&logoColor=white)
-![Open Source](https://img.shields.io/badge/-Open%20Source-000000?style=flat-square&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
