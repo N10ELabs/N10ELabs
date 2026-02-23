@@ -1,5 +1,5 @@
 # Anthony Marti
-NJ, USA | Engineer | Solo Developer at N10E Labs
+NJ, USA | Engineer | Solo Developer
 
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/-Windsurf-000000?style=flat-square&logo=github&logoColor=white)
@@ -14,14 +14,14 @@ NJ, USA | Engineer | Solo Developer at N10E Labs
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-> Focusing on quality in a quantity-driven environment. Leveraging agentic tools to just build things.
+> Building things, and learning along the way. I started a solo software studio, N10E Labs. Also i'm also learning guitar and love the gym! 
+DM if you'd like to collab.
 
 ## Current Projects
 - [docwarp](https://github.com/N10ELabs/docwarp) OSS Rust CLI for Markdown <-> DOCX conversion
 
 ## Connect
 - [Website](https://n10elabs.com)
-- [GitHub](https://github.com/N10ELabs)
 - [X](https://twitter.com/N10ELabs)
 - [LinkedIn](https://linkedin.com/company/n10elabs)
 - [Email](mailto:contact@n10elabs.com)
