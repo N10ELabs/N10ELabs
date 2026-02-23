@@ -1,5 +1,5 @@
 # Anthony Marti
-NJ, USA | Engineer | Solo Developer
+NJ, USA | Engineer | Developer
 
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/-Windsurf-000000?style=flat-square&logo=github&logoColor=white)
