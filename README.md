@@ -21,5 +21,5 @@ DM if you'd like to collab.
 - [docwarp](https://github.com/N10ELabs/docwarp) OSS Rust CLI for Markdown <-> DOCX conversion
 
 ## Connect
-[Follow on X](https://twitter.com/antnuh_)
-[Email](mailto:contact@n10elabs.com)
+- [Follow on X](https://twitter.com/antnuh_)
+- [Email](mailto:contact@n10elabs.com)
