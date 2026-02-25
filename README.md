@@ -14,11 +14,12 @@ NJ, USA | Engineer | Developer
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-> Building things, and learning along the way. I started a solo software studio, N10E Labs. Also learning guitar and love the gym! 
+> Building things and learning. Started a solo software studio, N10E Labs. Also learning guitar and love the gym! 
 DM if you'd like to collab.
 
-## Current Projects
+## Currently Working On
 - [docwarp](https://github.com/N10ELabs/docwarp) OSS Rust CLI for Markdown <-> DOCX conversion
 
 ## Connect
-contact@n10elabs.com
+[Follow on X](https://twitter.com/antnuh_)
+[Email](mailto:contact@n10elabs.com)
