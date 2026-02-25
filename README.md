@@ -14,7 +14,7 @@ NJ, USA | Engineer | Developer
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-> Building things and learning. Started a solo software studio, N10E Labs. Also learning guitar and love the gym! 
+> Building things and figuring it out. Started a solo software studio, N10E Labs. Also learning guitar and love the gym! 
 DM if you'd like to collab.
 
 ## Currently Working On
