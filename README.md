@@ -14,10 +14,10 @@ NJ, USA | Engineer | Developer
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-> Building things and figuring it out. Started a solo software studio, N10E Labs. Also learning guitar and love the gym! 
-DM if you'd like to collab.
+> Building things and figuring it out. Started a solo software studio, N10E Labs. Also learning guitar and love the gym!
 
 ## Currently Working On
+- [Topside](https://github.com/N10ELabs/topside) - AI-native project building layer
 - [docwarp](https://github.com/N10ELabs/docwarp) OSS Rust CLI for Markdown <-> DOCX conversion
 
 ## Connect
