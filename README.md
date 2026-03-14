@@ -24,7 +24,7 @@ Building under my software studio, **N10E Labs**. Focused on dev tools, workflow
 - [**Monolith**](https://github.com/N10ELabs/Monolith) *(Private)* — quant research platform
 
 ### Archive
-- [**Wordkeep**](https://github.com/N10ELabs/Wordkeep) *(Private)* — reading companion and vocabulary builder
+- [**Wordkeep**](https://github.com/N10ELabs/Wordkeep) *(Private)* — iOS reading companion and vocabulary builder
 
 ### Connect
 - [X / Twitter](https://twitter.com/antnuh_)
