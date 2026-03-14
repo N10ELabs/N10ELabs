@@ -1,6 +1,8 @@
 # Anthony Marti
 
-**NJ, USA · Engineer · Developer**
+**Engineer · Indie Dev · NJ, USA**
+
+Building under my software studio, **N10E Labs**. Focused on dev tools, workflows, and iOS apps.
 
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
@@ -13,25 +15,17 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-> Building things and figuring it out. Founder of N10E Labs. Currently focused on developer tools, AI-native software, and quant research systems.
+#### Released
+- [**Docwarp**](https://github.com/N10ELabs/docwarp) — OSS Rust CLI for Markdown ↔ DOCX
+- [**HSC Dashboard**](https://apps.apple.com/us/app/hsc-dashboard/id6754122213) — iOS app for a local business
 
----
-
-### Released
-
-- [**docwarp**](https://github.com/N10ELabs/docwarp) — OSS Rust CLI for Markdown ↔ DOCX conversion
-- [**HSC Dashboard**](https://apps.apple.com/us/app/hsc-dashboard/id6754122213) — iOS app built for a local business
-
-### In Progress
-
+#### Building
 - [**Topside**](https://github.com/N10ELabs/topside) — AI-native project building layer
 - [**Monolith**](https://github.com/N10ELabs/Monolith) — quant research platform
 
-### Archive
+#### Archive
+- **Wordkeep** *(Private)* — reading companion and vocabulary builder
 
-- **Wordkeep** *(Private)* — iOS reading companion and vocabulary builder
-
-### Connect
-
+#### Connect
 - [X / Twitter](https://twitter.com/antnuh_)
 - [Email](mailto:contact@n10elabs.com)
