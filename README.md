@@ -2,7 +2,6 @@
 NJ, USA | Engineer | Developer
 
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
-![Windsurf](https://img.shields.io/badge/-Windsurf-000000?style=flat-square&logo=github&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-000000?style=flat-square&logo=github&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -16,10 +15,17 @@ NJ, USA | Engineer | Developer
 
 > Building things and figuring it out. Started a solo software studio, N10E Labs. Also learning guitar and love the gym!
 
-## Currently Working On
-- [Topside](https://github.com/N10ELabs/topside) - AI-native project building layer
-- [docwarp](https://github.com/N10ELabs/docwarp) OSS Rust CLI for Markdown <-> DOCX conversion
+### Released
+- [docwarp](https://github.com/N10ELabs/docwarp) - OSS Rust CLI for Markdown <-> DOCX conversion
+- [HSC Dashboard](https://apps.apple.com/us/app/hsc-dashboard/id6754122213) - iOS app I made for a local business
 
-## Connect
+### In Progress
+- [Topside](https://github.com/N10ELabs/topside) - AI-native project building layer
+- [Monolith](https://github.com/N10ELabs/Monolith) - Quant research platform
+
+### Archive
+- [Wordkeep] (Private) - iOS Reading Companion & Vocabulary Builder
+
+### Connect
 - [Follow on X](https://twitter.com/antnuh_)
 - [Email](mailto:contact@n10elabs.com)
