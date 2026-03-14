@@ -21,7 +21,7 @@ Building under my software studio, **N10E Labs**. Focused on dev tools, workflow
 
 ### Building
 - [**Topside**](https://github.com/N10ELabs/topside) — AI-native project building layer
-- [**Monolith**](https://github.com/N10ELabs/Monolith) *(Private)* — quant research platform
+- [**Monolith**](https://github.com/N10ELabs/Monolith) *(Private)* — Quant research platform
 
 ### Archive
 - [**Wordkeep**](https://github.com/N10ELabs/Wordkeep) *(Private)* — iOS reading companion and vocabulary builder
