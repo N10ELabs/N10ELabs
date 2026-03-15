@@ -20,7 +20,6 @@ Building under my software studio, **N10E Labs**. Focused on dev tools, workflow
 - [**HSC Dashboard**](https://apps.apple.com/us/app/hsc-dashboard/id6754122213) — iOS app for a local business
 
 ### Building
-- [**Topside**](https://github.com/N10ELabs/topside) — AI-native project building layer
 - [**Wordkeep**](https://github.com/N10ELabs/Wordkeep) *(Private)* — iOS reading companion and vocabulary builder
 
 ### Archive
