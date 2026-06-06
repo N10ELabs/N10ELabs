@@ -14,15 +14,11 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-000000?style=flat-square&logo=github&logoColor=white)
 ### Released
-[**Docwarp**](https://github.com/N10ELabs/docwarp) — OSS Rust CLI for Markdown ↔ DOCX
-
-[**HSC Dashboard**](https://apps.apple.com/us/app/hsc-dashboard/id6754122213) — iOS app for a local business
-
-[**Topside**](https://github.com/N10ELabs/topside) — Project management and task tracking with AI
-
-[**Mini Calendar Widget**](https://apps.apple.com/us/app/mini-calendar-widget/id6741892022) — Widget for quick calendar view
-
+- [**Docwarp**](https://github.com/N10ELabs/docwarp) — OSS Rust CLI for Markdown ↔ DOCX
+- [**HSC Dashboard**](https://apps.apple.com/us/app/hsc-dashboard/id6754122213) — iOS app for a local business
+- [**Topside**](https://github.com/N10ELabs/topside) — Project management and task tracking with AI
+- [**Mini Calendar Widget**](https://apps.apple.com/us/app/mini-calendar-widget/id6741892022) — Widget for quick calendar view
 ### Building
-[**Wordkeep**](https://github.com/N10ELabs/Wordkeep) *(Private)* — iOS reading companion and vocabulary builder
+- [**Wordkeep**](https://github.com/N10ELabs/Wordkeep) *(Private)* — iOS reading companion and vocabulary builder
 ### Research
-[**Paramater Golf**](https://github.com/N10ELabs/paramater-golf) — Small LLM Fine Tuning. Scored 1.08 compression efficiency against the 1.22 baseline!
+- [**Paramater Golf**](https://github.com/N10ELabs/paramater-golf) — Small LLM Fine Tuning. Scored 1.08 compression efficiency against the 1.22 baseline!
