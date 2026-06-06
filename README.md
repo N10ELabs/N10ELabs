@@ -2,7 +2,7 @@
 
 **Engineer · Indie Dev · NJ, USA**
 
-Building under my software studio, **N10E Labs**. Focused on dev tools, workflows, and iOS apps.
+27 | NJ | Engineering & Physics | Building things
 
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
@@ -26,10 +26,3 @@ Building under my software studio, **N10E Labs**. Focused on dev tools, workflow
 
 ### Research
 - [**Paramater Golf**](https://github.com/N10ELabs/paramater-golf) — Small LLM Fine Tuning. Scored 1.08 compression efficiency against the 1.22 baseline!
-
-### Archive
-
-
-### Connect
-- [X / Twitter](https://twitter.com/antnuh_)
-- [Email](mailto:contact@n10elabs.com)
