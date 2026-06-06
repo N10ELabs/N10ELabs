@@ -18,6 +18,7 @@ Building under my software studio, **N10E Labs**. Focused on dev tools, workflow
 ### Released
 - [**Docwarp**](https://github.com/N10ELabs/docwarp) — OSS Rust CLI for Markdown ↔ DOCX
 - [**HSC Dashboard**](https://apps.apple.com/us/app/hsc-dashboard/id6754122213) — iOS app for a local business
+- [**Topside**](https://github.com/N10ELabs/topside) — Project management and task tracking with AI
 
 ### Building
 - [**Wordkeep**](https://github.com/N10ELabs/Wordkeep) *(Private)* — iOS reading companion and vocabulary builder
